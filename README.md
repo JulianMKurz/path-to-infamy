@@ -1,4 +1,1 @@
-# 2D Tactics game
-Made by Ridvan Aydin Sibic & Julian Kurz
-
-Serves only as a simple proof of concept game.
+Path to Infamy is a small 2-D tactics game we developed with Unity for practice. Created by me and github user RidSib.
